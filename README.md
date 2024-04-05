@@ -12,7 +12,7 @@ Desenvolvir esse chat para colocar os coneceitos de WebSocket em prática!
 - Spring Boot
 - Lombok
 - WebSocket
-- 
+  
 ## Front end
 - HTML
 - CSS
